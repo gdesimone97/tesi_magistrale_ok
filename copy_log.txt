@@ -1,0 +1,545 @@
+__main__ - INFO - 04-11-2021 17:23
+utils - INFO - Adding: 132762273 at 2021-11-04 19:29:59.696084
+utils - INFO - scheduled: {'132762273'} - 2021-11-04 17:23:47.696729
+utils - INFO - scheduled: {'132762273'} - 2021-11-04 17:38:47.720779
+callbacks - INFO - Entra: {Gennaro Giaquinto, https://t.me/GiackV, 362625280, complete: False} - 04-11-2021 17:48:25
+utils - INFO - scheduled: {'132762273'} - 2021-11-04 17:53:47.762748
+__main__ - INFO - 04-11-2021 17:58
+utils - INFO - Adding: 132762273 at 2021-11-04 19:29:59.028125
+utils - INFO - scheduled: {'132762273'} - 2021-11-04 17:58:11.076578
+callbacks - INFO - Entra: {Carlo, None, 1908497562, complete: False} - 04-11-2021 18:11:21
+callbacks - INFO - Entra: {Giuseppe, https://t.me/peppodesmo97, 268005350, complete: False} - 04-11-2021 18:11:35
+utils - INFO - Adding: 1908497562 at 2021-11-04 19:29:59.121621
+utils - INFO - scheduled: {'1908497562', '132762273'} - 2021-11-04 18:13:11.155242
+utils - INFO - scheduled: {'1908497562', '132762273'} - 2021-11-04 18:28:11.236526
+utils - INFO - scheduled: {'1908497562', '132762273'} - 2021-11-04 18:43:11.299623
+utils - INFO - scheduled: {'1908497562', '132762273'} - 2021-11-04 18:58:11.352123
+utils - INFO - scheduled: {'1908497562', '132762273'} - 2021-11-04 19:13:11.434782
+utils - INFO - scheduled: {'1908497562', '132762273'} - 2021-11-04 19:28:11.513404
+utils - INFO - Removing: 1908497562
+utils - INFO - Removing: 132762273
+utils - INFO - Adding: 132762273 at 2021-11-05 08:29:59.538125
+utils - INFO - Adding: 1908497562 at 2021-11-05 08:29:59.560235
+utils - INFO - scheduled: {'1908497562', '132762273'} - 2021-11-04 19:43:11.599171
+utils - INFO - scheduled: {'1908497562', '132762273'} - 2021-11-04 19:58:11.668742
+utils - INFO - scheduled: {'1908497562', '132762273'} - 2021-11-04 20:13:11.740235
+utils - INFO - scheduled: {'1908497562', '132762273'} - 2021-11-04 20:28:11.810285
+utils - INFO - scheduled: {'1908497562', '132762273'} - 2021-11-04 20:43:11.892094
+utils - INFO - scheduled: {'1908497562', '132762273'} - 2021-11-04 20:58:11.966389
+telegram.ext.updater - ERROR - Error while getting Updates: Bad Gateway
+telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+telegram.error.NetworkError: Bad Gateway
+telegram.ext.updater - ERROR - Error while getting Updates: Bad Gateway
+telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+utils - INFO - scheduled: {'1908497562', '132762273'} - 2021-11-04 21:13:12.040057
+utils - INFO - scheduled: {'1908497562', '132762273'} - 2021-11-04 21:28:12.115067
+utils - INFO - scheduled: {'1908497562', '132762273'} - 2021-11-04 21:43:12.190641
+utils - INFO - scheduled: {'1908497562', '132762273'} - 2021-11-04 21:58:12.261649
+utils - INFO - scheduled: {'1908497562', '132762273'} - 2021-11-04 22:13:12.335691
+telegram.ext.updater - INFO - Received signal 15 (SIGTERM), stopping...
+__main__ - INFO - 04-11-2021 22:17
+utils - INFO - Adding: 132762273 at 2021-11-05 08:29:59.661826
+utils - INFO - Adding: 1908497562 at 2021-11-05 08:29:59.736585
+utils - INFO - scheduled: {'132762273', '1908497562'} - 2021-11-04 22:17:28.774762
+utils - INFO - scheduled: {'132762273', '1908497562'} - 2021-11-04 22:32:28.847314
+utils - INFO - scheduled: {'132762273', '1908497562'} - 2021-11-04 22:47:28.930841
+telegram.ext.updater - INFO - Received signal 15 (SIGTERM), stopping...
+telegram.ext.updater - WARNING - Exiting immediately!
+__main__ - INFO - 04-11-2021 22:48
+utils - INFO - Adding: 132762273 at 2021-11-05 08:29:59.070780
+utils - INFO - Adding: 1908497562 at 2021-11-05 08:29:59.084757
+utils - INFO - scheduled: {'1908497562', '132762273'} - 2021-11-04 22:48:50.111483
+__main__ - INFO - 05-11-2021 00:19
+utils - INFO - Adding: 132762273 at 2021-11-05 08:29:59.332225
+utils - INFO - Adding: 1908497562 at 2021-11-05 08:29:59.357935
+utils - INFO - scheduled: {'132762273', '1908497562'} - 2021-11-05 00:19:53.400373
+utils - INFO - scheduled: {'132762273', '1908497562'} - 2021-11-05 00:34:53.469416
+utils - INFO - scheduled: {'132762273', '1908497562'} - 2021-11-05 00:49:53.541438
+utils - INFO - scheduled: {'132762273', '1908497562'} - 2021-11-05 01:04:53.620157
+utils - INFO - scheduled: {'132762273', '1908497562'} - 2021-11-05 01:19:53.693698
+utils - INFO - scheduled: {'132762273', '1908497562'} - 2021-11-05 01:34:53.775540
+telegram.ext.updater - ERROR - Error while getting Updates: Bad Gateway
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while handling the error.
+Traceback (most recent call last):
+  File "/home/pi/share/tesi/hd/tesi/venv/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 536, in process_update
+    self.dispatch_error(None, update)
+  File "/home/pi/share/tesi/hd/tesi/venv/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 810, in dispatch_error
+    callback(update, context)
+  File "/home/pi/share/tesi/hd/tesi/utils.py", line 82, in error_handler
+    text = f"Problem with: {update.effective_user} - {datetime.now()}"
+AttributeError: 'NoneType' object has no attribute 'effective_user'
+telegram.ext.updater - ERROR - Error while getting Updates: Bad Gateway
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while handling the error.
+Traceback (most recent call last):
+  File "/home/pi/share/tesi/hd/tesi/venv/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 536, in process_update
+    self.dispatch_error(None, update)
+  File "/home/pi/share/tesi/hd/tesi/venv/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 810, in dispatch_error
+    callback(update, context)
+  File "/home/pi/share/tesi/hd/tesi/utils.py", line 82, in error_handler
+    text = f"Problem with: {update.effective_user} - {datetime.now()}"
+AttributeError: 'NoneType' object has no attribute 'effective_user'
+utils - INFO - scheduled: {'132762273', '1908497562'} - 2021-11-05 01:49:53.844686
+utils - INFO - scheduled: {'132762273', '1908497562'} - 2021-11-05 02:04:53.916783
+utils - INFO - scheduled: {'132762273', '1908497562'} - 2021-11-05 02:19:53.987305
+utils - INFO - scheduled: {'132762273', '1908497562'} - 2021-11-05 02:34:54.068392
+utils - INFO - scheduled: {'132762273', '1908497562'} - 2021-11-05 02:49:54.137919
+utils - INFO - scheduled: {'132762273', '1908497562'} - 2021-11-05 03:04:54.219900
+utils - INFO - scheduled: {'132762273', '1908497562'} - 2021-11-05 03:19:54.303802
+utils - INFO - scheduled: {'132762273', '1908497562'} - 2021-11-05 03:34:54.373715
+utils - INFO - scheduled: {'132762273', '1908497562'} - 2021-11-05 03:49:54.447928
+utils - INFO - scheduled: {'132762273', '1908497562'} - 2021-11-05 04:04:54.520344
+utils - INFO - scheduled: {'132762273', '1908497562'} - 2021-11-05 04:19:54.596222
+utils - INFO - scheduled: {'132762273', '1908497562'} - 2021-11-05 04:34:54.668137
+utils - INFO - scheduled: {'132762273', '1908497562'} - 2021-11-05 04:49:54.751683
+utils - INFO - scheduled: {'132762273', '1908497562'} - 2021-11-05 05:04:54.833529
+utils - INFO - scheduled: {'132762273', '1908497562'} - 2021-11-05 05:19:54.904495
+utils - INFO - scheduled: {'132762273', '1908497562'} - 2021-11-05 05:34:54.985280
+__main__ - INFO - 05-11-2021 09:38
+callbacks - INFO - Entra: {𝚏, https://t.me/phasca, 407575728, complete: False} - 05-11-2021 09:38:54
+utils - INFO - Adding: 132762273 at 2021-11-05 19:29:59.533261
+utils - INFO - Adding: 1908497562 at 2021-11-05 19:29:59.557204
+utils - INFO - Adding: 362625280 at 2021-11-05 19:29:59.583143
+utils - INFO - Adding: 407575728 at 2021-11-05 19:29:59.595567
+utils - INFO - scheduled: {'132762273', '1908497562', '407575728', '362625280'} - 2021-11-05 09:38:55.596089
+callbacks - INFO - Entra: {Fiorella Ruta, None, 2123568595, complete: False} - 05-11-2021 09:39:26
+utils - INFO - Adding: 2123568595 at 2021-11-05 19:29:59.659445
+utils - INFO - scheduled: {'132762273', '2123568595', '362625280', '407575728', '1908497562'} - 2021-11-05 09:53:55.713374
+utils - INFO - scheduled: {'132762273', '2123568595', '362625280', '407575728', '1908497562'} - 2021-11-05 10:08:55.812409
+utils - INFO - scheduled: {'132762273', '2123568595', '362625280', '407575728', '1908497562'} - 2021-11-05 10:23:55.912693
+utils - INFO - scheduled: {'132762273', '2123568595', '362625280', '407575728', '1908497562'} - 2021-11-05 10:38:56.005848
+utils - INFO - scheduled: {'132762273', '2123568595', '362625280', '407575728', '1908497562'} - 2021-11-05 10:53:56.106227
+telegram.ext.updater - INFO - Received signal 15 (SIGTERM), stopping...
+utils - INFO - Shutdown scheduler
+__main__ - INFO - 05-11-2021 11:01
+utils - INFO - Adding: 132762273 at 2021-11-05 19:29:59.980267
+utils - INFO - Adding: 2123568595 at 2021-11-05 19:29:59.011982
+utils - INFO - Adding: 362625280 at 2021-11-05 19:29:59.059758
+utils - INFO - scheduled: {'362625280', '132762273', '2123568595'} - 2021-11-05 11:01:32.084010
+utils - INFO - scheduled: {'362625280', '132762273', '2123568595'} - 2021-11-05 11:16:32.198913
+callbacks - INFO - Entra: {Tommaso Barrasso, None, 580130061, complete: False} - 05-11-2021 11:28:52
+utils - INFO - Adding: 580130061 at 2021-11-05 19:29:59.317238
+utils - INFO - scheduled: {'362625280', '580130061', '132762273', '2123568595'} - 2021-11-05 11:31:32.317898
+utils - INFO - scheduled: {'362625280', '580130061', '132762273', '2123568595'} - 2021-11-05 11:46:32.438060
+callbacks - INFO - Entra: {Gerardina Damiano, None, 2107613029, complete: False} - 05-11-2021 12:00:48
+utils - INFO - Adding: 2107613029 at 2021-11-05 19:29:59.504343
+utils - INFO - scheduled: {'2107613029', '2123568595', '362625280', '132762273', '580130061'} - 2021-11-05 12:01:32.566251
+callbacks - INFO - Entra: {Sebix, https://t.me/Sebix007135, 573888762, complete: False} - 05-11-2021 12:07:02
+utils - ERROR - Problem with: {'first_name': 'Sebix', 'language_code': 'it', 'is_bot': False, 'username': 'Sebix007135', 'id': 573888762} - 2021-11-05 12:15:14.065548
+utils - INFO - scheduled: {'2107613029', '2123568595', '362625280', '132762273', '580130061'} - 2021-11-05 12:16:32.679595
+utils - INFO - scheduled: {'2107613029', '2123568595', '362625280', '132762273', '580130061'} - 2021-11-05 12:31:32.825409
+callbacks - INFO - Entra: {Marco, https://t.me/kagakazi, 1230421796, complete: False} - 05-11-2021 12:35:43
+callbacks - INFO - Entra: {Gregorio Carmine Papaleo, https://t.me/GregCP, 224710733, complete: False} - 05-11-2021 12:44:51
+utils - INFO - scheduled: {'2107613029', '2123568595', '362625280', '132762273', '580130061'} - 2021-11-05 12:46:32.972894
+utils - INFO - scheduled: {'2107613029', '2123568595', '362625280', '132762273', '580130061'} - 2021-11-05 13:01:33.129111
+utils - INFO - scheduled: {'2107613029', '2123568595', '362625280', '132762273', '580130061'} - 2021-11-05 13:16:33.292524
+callbacks - INFO - Entra: {Prisco Morella, https://t.me/Prismore, 1314783113, complete: False} - 05-11-2021 13:20:08
+utils - ERROR - Problem with: {'first_name': 'Prisco', 'last_name': 'Morella', 'language_code': 'it', 'is_bot': False, 'username': 'Prismore', 'id': 1314783113} - 2021-11-05 13:26:28.276033
+utils - ERROR - Problem with: {'first_name': 'Prisco', 'last_name': 'Morella', 'language_code': 'it', 'is_bot': False, 'username': 'Prismore', 'id': 1314783113} - 2021-11-05 13:26:55.434406
+callbacks - INFO - Entra: {Enrico Colicchio, https://t.me/enric29, 482000749, complete: False} - 05-11-2021 13:28:30
+utils - INFO - Adding: 482000749 at 2021-11-05 19:29:59.435923
+utils - INFO - scheduled: {'2107613029', '2123568595', '362625280', '132762273', '580130061', '482000749'} - 2021-11-05 13:31:33.453927
+utils - INFO - scheduled: {'2107613029', '2123568595', '362625280', '132762273', '580130061', '482000749'} - 2021-11-05 13:46:33.632412
+telegram.ext.updater - INFO - Received signal 15 (SIGTERM), stopping...
+utils - INFO - Shutdown scheduler
+__main__ - INFO - 05-11-2021 13:54
+callbacks - INFO - Entra: {Giuseppe Grieci, https://t.me/peppo_grieci, 873992744, complete: False} - 05-11-2021 13:54:17
+utils - INFO - Adding: 132762273 at 2021-11-05 19:29:59.904477
+utils - INFO - Adding: 2107613029 at 2021-11-05 19:29:59.946667
+utils - INFO - Adding: 2123568595 at 2021-11-05 19:29:59.960760
+utils - INFO - Adding: 362625280 at 2021-11-05 19:29:59.030156
+utils - INFO - Adding: 482000749 at 2021-11-05 19:29:59.066031
+utils - INFO - Adding: 873992744 at 2021-11-05 19:29:59.106624
+utils - INFO - scheduled: {'2107613029', '132762273', '482000749', '362625280', '2123568595', '873992744'} - 2021-11-05 13:54:18.107179
+callbacks - INFO - Entra: {Franco Pio, https://t.me/Fra2198, 757577790, complete: False} - 05-11-2021 13:54:45
+telegram.ext.updater - INFO - Received signal 15 (SIGTERM), stopping...
+utils - INFO - Shutdown scheduler
+__main__ - INFO - 05-11-2021 13:55
+utils - INFO - Adding: 132762273 at 2021-11-05 19:29:59.147514
+utils - INFO - Adding: 2107613029 at 2021-11-05 19:29:59.175230
+utils - INFO - Adding: 2123568595 at 2021-11-05 19:29:59.189978
+utils - INFO - Adding: 362625280 at 2021-11-05 19:29:59.252812
+utils - INFO - Adding: 482000749 at 2021-11-05 19:29:59.288908
+utils - INFO - Adding: 757577790 at 2021-11-05 19:29:59.334213
+utils - INFO - Adding: 873992744 at 2021-11-05 19:29:59.355659
+utils - INFO - scheduled: {'757577790', '362625280', '2107613029', '2123568595', '873992744', '132762273', '482000749'} - 2021-11-05 13:55:54.356228
+callbacks - INFO - Entra: {Gerardo Minichiello, None, 714497549, complete: False} - 05-11-2021 13:59:42
+utils - INFO - Adding: 714497549 at 2021-11-05 19:29:59.526484
+utils - INFO - scheduled: {'757577790', '714497549', '362625280', '2107613029', '2123568595', '873992744', '132762273', '482000749'} - 2021-11-05 14:10:54.544241
+utils - ERROR - Problem with: {'language_code': 'it', 'username': 'enric29', 'id': 482000749, 'first_name': 'Enrico', 'is_bot': False, 'last_name': 'Colicchio'} - 2021-11-05 14:20:25.825217 - Sample larger than population or is negative
+utils - ERROR - Problem with: {'language_code': 'it', 'username': 'enric29', 'id': 482000749, 'first_name': 'Enrico', 'is_bot': False, 'last_name': 'Colicchio'} - 2021-11-05 14:21:14.058248 - Sample larger than population or is negative
+utils - INFO - scheduled: {'757577790', '714497549', '362625280', '2107613029', '2123568595', '873992744', '132762273', '482000749'} - 2021-11-05 14:25:54.706917
+utils - INFO - scheduled: {'757577790', '714497549', '362625280', '2107613029', '2123568595', '873992744', '132762273', '482000749'} - 2021-11-05 14:40:54.892972
+callbacks - INFO - Entra: {Roberto, https://t.me/Robertospeciale, 1770776685, complete: False} - 05-11-2021 14:42:18
+callbacks - INFO - Entra: {Casimiro Cannazza, None, 719438104, complete: False} - 05-11-2021 14:44:08
+callbacks - INFO - Entra: {Bianca, None, 1385338327, complete: False} - 05-11-2021 14:46:06
+callbacks - INFO - Entra: {Alberto Moscaritolo, None, 738867743, complete: False} - 05-11-2021 14:48:42
+callbacks - INFO - Entra: {Mauro Moscaritolo, None, 911154958, complete: False} - 05-11-2021 14:53:47
+utils - INFO - Adding: 911154958 at 2021-11-05 19:29:59.126536
+utils - INFO - scheduled: {'911154958', '757577790', '714497549', '362625280', '2107613029', '2123568595', '873992744', '132762273', '482000749'} - 2021-11-05 14:55:55.126988
+callbacks - INFO - Entra: {Pasquale, None, 834582285, complete: False} - 05-11-2021 15:02:52
+callbacks - INFO - Entra: {Antonio Barrasso, https://t.me/barranto, 954034949, complete: False} - 05-11-2021 15:03:19
+callbacks - INFO - Entra: {Arianna Petruzziello, None, 1863268171, complete: False} - 05-11-2021 15:05:25
+utils - INFO - Adding: 954034949 at 2021-11-05 19:29:59.353035
+utils - INFO - scheduled: {'911154958', '757577790', '714497549', '362625280', '2107613029', '2123568595', '873992744', '132762273', '482000749', '954034949'} - 2021-11-05 15:10:55.353517
+callbacks - INFO - Entra: {Sonia, None, 2121819999, complete: False} - 05-11-2021 15:14:45
+callbacks - INFO - Entra: {Gerry Gerry, None, 1483207948, complete: False} - 05-11-2021 15:18:59
+utils - INFO - scheduled: {'911154958', '757577790', '714497549', '362625280', '2107613029', '2123568595', '873992744', '132762273', '482000749', '954034949'} - 2021-11-05 15:25:55.666801
+callbacks - INFO - Entra: {Chiara, None, 1630728501, complete: False} - 05-11-2021 15:31:51
+callbacks - INFO - Entra: {Caterina De Rosa, None, 1908394421, complete: False} - 05-11-2021 15:36:02
+callbacks - INFO - Entra: {Lucarush, None, 696351228, complete: False} - 05-11-2021 15:38:20
+utils - INFO - Adding: 1908394421 at 2021-11-05 19:29:59.790065
+utils - INFO - scheduled: {'911154958', '757577790', '714497549', '1908394421', '362625280', '2107613029', '2123568595', '873992744', '132762273', '482000749', '954034949'} - 2021-11-05 15:40:55.975676
+callbacks - INFO - Entra: {MARIA CARMELA DE SIMONE, https://t.me/mariacarm, 1784612953, complete: False} - 05-11-2021 15:41:48
+callbacks - INFO - Entra: {Martina Lo Mascolo, https://t.me/MartinaLoMascolo, 1067240777, complete: False} - 05-11-2021 15:42:37
+callbacks - INFO - Entra: {Filomena Buonopane, None, 1238418523, complete: False} - 05-11-2021 15:55:32
+utils - INFO - Adding: 1238418523 at 2021-11-05 19:29:59.039096
+utils - INFO - Adding: 1784612953 at 2021-11-05 19:29:59.118342
+utils - INFO - scheduled: {'1784612953', '911154958', '757577790', '714497549', '1908394421', '362625280', '2107613029', '2123568595', '1238418523', '873992744', '132762273', '482000749', '954034949'} - 2021-11-05 15:55:56.335362
+utils - INFO - scheduled: {'1784612953', '911154958', '757577790', '714497549', '1908394421', '362625280', '2107613029', '2123568595', '1238418523', '873992744', '132762273', '482000749', '954034949'} - 2021-11-05 16:10:56.688564
+callbacks - INFO - Entra: {Fiorina Guarino, None, 2109142388, complete: False} - 05-11-2021 16:17:53
+callbacks - INFO - Entra: {Rossella, None, 2089995001, complete: False} - 05-11-2021 16:19:40
+utils - INFO - scheduled: {'1784612953', '911154958', '757577790', '714497549', '1908394421', '362625280', '2107613029', '2123568595', '1238418523', '873992744', '132762273', '482000749', '954034949'} - 2021-11-05 16:25:57.075822
+callbacks - INFO - Entra: {GIOVANNA, None, 1357309131, complete: False} - 05-11-2021 16:33:01
+callbacks - INFO - Entra: {Antonietta, None, 1310061555, complete: False} - 05-11-2021 16:34:04
+utils - INFO - Adding: 1310061555 at 2021-11-05 19:29:59.133467
+utils - INFO - Adding: 1357309131 at 2021-11-05 19:29:59.172514
+utils - INFO - scheduled: {'1784612953', '911154958', '757577790', '714497549', '1908394421', '362625280', '2107613029', '2123568595', '1238418523', '873992744', '1310061555', '1357309131', '132762273', '482000749', '954034949'} - 2021-11-05 16:40:57.463075
+callbacks - INFO - Entra: {Anita, None, 2080397916, complete: False} - 05-11-2021 16:54:37
+utils - INFO - Adding: 2080397916 at 2021-11-05 19:29:59.683411
+utils - INFO - scheduled: {'1784612953', '911154958', '757577790', '2080397916', '714497549', '1908394421', '362625280', '2107613029', '2123568595', '1238418523', '873992744', '1310061555', '1357309131', '132762273', '482000749', '954034949'} - 2021-11-05 16:55:57.879720
+utils - ERROR - Problem with: {'language_code': 'it', 'id': 2080397916, 'first_name': 'Anita', 'is_bot': False} - 2021-11-05 17:08:34.315472 - Sample larger than population or is negative
+utils - INFO - scheduled: {'1784612953', '911154958', '757577790', '2080397916', '714497549', '1908394421', '362625280', '2107613029', '2123568595', '1238418523', '873992744', '1310061555', '1357309131', '132762273', '482000749', '954034949'} - 2021-11-05 17:10:58.277881
+utils - INFO - scheduled: {'1784612953', '911154958', '757577790', '2080397916', '714497549', '1908394421', '362625280', '2107613029', '2123568595', '1238418523', '873992744', '1310061555', '1357309131', '132762273', '482000749', '954034949'} - 2021-11-05 17:25:58.677442
+callbacks - INFO - Entra: {Raffaella Melagrano, None, 2144090201, complete: False} - 05-11-2021 17:31:42
+utils - INFO - scheduled: {'1784612953', '911154958', '757577790', '2080397916', '714497549', '1908394421', '362625280', '2107613029', '2123568595', '1238418523', '873992744', '1310061555', '1357309131', '132762273', '482000749', '954034949'} - 2021-11-05 17:40:59.074808
+utils - INFO - scheduled: {'1784612953', '911154958', '757577790', '2080397916', '714497549', '1908394421', '362625280', '2107613029', '2123568595', '1238418523', '873992744', '1310061555', '1357309131', '132762273', '482000749', '954034949'} - 2021-11-05 17:55:59.486401
+utils - INFO - scheduled: {'1784612953', '911154958', '757577790', '2080397916', '714497549', '1908394421', '362625280', '2107613029', '2123568595', '1238418523', '873992744', '1310061555', '1357309131', '132762273', '482000749', '954034949'} - 2021-11-05 18:10:59.896864
+utils - INFO - scheduled: {'1784612953', '911154958', '757577790', '2080397916', '714497549', '1908394421', '362625280', '2107613029', '2123568595', '1238418523', '873992744', '1310061555', '1357309131', '132762273', '482000749', '954034949'} - 2021-11-05 18:26:00.308992
+callbacks - INFO - Entra: {Falc, None, 559248021, complete: False} - 05-11-2021 18:32:43
+utils - INFO - scheduled: {'1784612953', '911154958', '757577790', '2080397916', '714497549', '1908394421', '362625280', '2107613029', '2123568595', '1238418523', '873992744', '1310061555', '1357309131', '132762273', '482000749', '954034949'} - 2021-11-05 18:41:00.714764
+callbacks - INFO - Entra: {Giuseppe Macchia, None, 2058616, complete: False} - 05-11-2021 18:50:34
+utils - INFO - scheduled: {'1784612953', '911154958', '757577790', '2080397916', '714497549', '1908394421', '362625280', '2107613029', '2123568595', '1238418523', '873992744', '1310061555', '1357309131', '132762273', '482000749', '954034949'} - 2021-11-05 18:56:01.144469
+utils - ERROR - Problem with: {'language_code': 'it', 'id': 2058616, 'first_name': 'Giuseppe', 'is_bot': False, 'last_name': 'Macchia'} - 2021-11-05 18:58:04.613882 - Sample larger than population or is negative
+utils - ERROR - Problem with: {'language_code': 'it', 'id': 2058616, 'first_name': 'Giuseppe', 'is_bot': False, 'last_name': 'Macchia'} - 2021-11-05 18:58:12.909591 - Sample larger than population or is negative
+utils - ERROR - Problem with: {'language_code': 'it', 'id': 2058616, 'first_name': 'Giuseppe', 'is_bot': False, 'last_name': 'Macchia'} - 2021-11-05 18:58:16.171959 - Sample larger than population or is negative
+utils - INFO - scheduled: {'1784612953', '911154958', '757577790', '2080397916', '714497549', '1908394421', '362625280', '2107613029', '2123568595', '1238418523', '873992744', '1310061555', '1357309131', '132762273', '482000749', '954034949'} - 2021-11-05 19:11:01.562421
+callbacks - INFO - Entra: {Anto Bel, None, 2012725217, complete: False} - 05-11-2021 19:12:37
+utils - INFO - Adding: 2012725217 at 2021-11-05 19:29:59.773581
+utils - INFO - scheduled: {'1784612953', '911154958', '757577790', '2080397916', '714497549', '1908394421', '362625280', '2107613029', '2123568595', '1238418523', '2012725217', '873992744', '1310061555', '1357309131', '132762273', '482000749', '954034949'} - 2021-11-05 19:26:02.004321
+utils - INFO - Removing: 482000749
+utils - INFO - Removing: 1784612953
+utils - INFO - Removing: 911154958
+utils - INFO - Removing: 2107613029
+utils - INFO - Removing: 1357309131
+utils - INFO - Removing: 2080397916
+utils - INFO - Removing: 714497549
+utils - INFO - Removing: 873992744
+utils - INFO - Removing: 2012725217
+utils - INFO - Removing: 2123568595
+utils - INFO - Removing: 1310061555
+utils - INFO - Removing: 1238418523
+utils - INFO - Removing: 132762273
+utils - INFO - Removing: 757577790
+utils - INFO - Removing: 954034949
+utils - INFO - Removing: 362625280
+utils - INFO - Removing: 1908394421
+telegram.ext.updater - INFO - Received signal 15 (SIGTERM), stopping...
+utils - INFO - Shutdown scheduler
+Traceback (most recent call last):
+  File "/home/pi/share/tesi/hd/tesi/utils.py", line 135, in remember
+    cmd = self.get_current_command()
+  File "/home/pi/share/tesi/hd/tesi/utils.py", line 219, in get_current_command
+    cmd = command_eng[index]
+  File "/home/pi/share/tesi/hd/tesi/utils.py", line 209, in get_next_command
+  File "/usr/local/lib/python3.8/random.py", line 363, in sample
+    raise ValueError("Sample larger than population or is negative")
+ValueError: Sample larger than population or is negative
+
+Traceback (most recent call last):
+  File "/home/pi/share/tesi/hd/tesi/utils.py", line 144, in remember
+    bot.send_message(chat_id=self.id, text=text)
+  File "/home/pi/share/tesi/hd/tesi/venv/lib/python3.8/site-packages/telegram/bot.py", line 130, in decorator
+    result = func(*args, **kwargs)
+  File "/home/pi/share/tesi/hd/tesi/venv/lib/python3.8/site-packages/telegram/bot.py", line 513, in send_message
+    return self._message(  # type: ignore[return-value]
+  File "/home/pi/share/tesi/hd/tesi/venv/lib/python3.8/site-packages/telegram/ext/extbot.py", line 199, in _message
+    result = super()._message(
+  File "/home/pi/share/tesi/hd/tesi/venv/lib/python3.8/site-packages/telegram/bot.py", line 332, in _message
+    result = self._post(endpoint, data, timeout=timeout, api_kwargs=api_kwargs)
+  File "/home/pi/share/tesi/hd/tesi/venv/lib/python3.8/site-packages/telegram/bot.py", line 295, in _post
+    return self.request.post(
+  File "/home/pi/share/tesi/hd/tesi/venv/lib/python3.8/site-packages/telegram/utils/request.py", line 356, in post
+    result = self._request_wrapper(
+  File "/home/pi/share/tesi/hd/tesi/venv/lib/python3.8/site-packages/telegram/utils/request.py", line 277, in _request_wrapper
+    raise Unauthorized(message)
+telegram.error.Unauthorized: Forbidden: bot was blocked by the user
+
+Traceback (most recent call last):
+  File "/home/pi/share/tesi/hd/tesi/utils.py", line 135, in remember
+    cmd = self.get_current_command()
+  File "/home/pi/share/tesi/hd/tesi/utils.py", line 219, in get_current_command
+    cmd = command_eng[index]
+  File "/home/pi/share/tesi/hd/tesi/utils.py", line 209, in get_next_command
+  File "/usr/local/lib/python3.8/random.py", line 363, in sample
+    raise ValueError("Sample larger than population or is negative")
+ValueError: Sample larger than population or is negative
+
+Traceback (most recent call last):
+  File "/home/pi/share/tesi/hd/tesi/utils.py", line 144, in remember
+    bot.send_message(chat_id=self.id, text=text)
+  File "/home/pi/share/tesi/hd/tesi/venv/lib/python3.8/site-packages/telegram/bot.py", line 130, in decorator
+    result = func(*args, **kwargs)
+  File "/home/pi/share/tesi/hd/tesi/venv/lib/python3.8/site-packages/telegram/bot.py", line 513, in send_message
+    return self._message(  # type: ignore[return-value]
+  File "/home/pi/share/tesi/hd/tesi/venv/lib/python3.8/site-packages/telegram/ext/extbot.py", line 199, in _message
+    result = super()._message(
+  File "/home/pi/share/tesi/hd/tesi/venv/lib/python3.8/site-packages/telegram/bot.py", line 332, in _message
+    result = self._post(endpoint, data, timeout=timeout, api_kwargs=api_kwargs)
+  File "/home/pi/share/tesi/hd/tesi/venv/lib/python3.8/site-packages/telegram/bot.py", line 295, in _post
+    return self.request.post(
+  File "/home/pi/share/tesi/hd/tesi/venv/lib/python3.8/site-packages/telegram/utils/request.py", line 356, in post
+    result = self._request_wrapper(
+  File "/home/pi/share/tesi/hd/tesi/venv/lib/python3.8/site-packages/telegram/utils/request.py", line 277, in _request_wrapper
+    raise Unauthorized(message)
+telegram.error.Unauthorized: Forbidden: bot was blocked by the user
+
+/home/pi/share/tesi/hd/tesi/venv/lib/python3.8/site-packages/telegram/ext/conversationhandler.py:287: UserWarning: If 'per_message=False', 'CallbackQueryHandler' will not be tracked for every message.
+  warnings.warn(
+__main__ - INFO - 05-11-2021 19:40
+utils - INFO - Adding: 1238418523 at 2021-11-06 08:29:59.791132
+utils - INFO - Adding: 1310061555 at 2021-11-06 08:29:59.807021
+utils - INFO - Adding: 132762273 at 2021-11-06 08:29:59.843480
+utils - INFO - Adding: 1357309131 at 2021-11-06 08:29:59.863193
+utils - INFO - Adding: 1784612953 at 2021-11-06 08:29:59.981764
+utils - INFO - Adding: 2012725217 at 2021-11-06 08:29:59.072998
+utils - INFO - Adding: 2107613029 at 2021-11-06 08:29:59.151363
+utils - INFO - Adding: 362625280 at 2021-11-06 08:29:59.314707
+utils - INFO - Adding: 714497549 at 2021-11-06 08:29:59.459152
+utils - INFO - Adding: 757577790 at 2021-11-06 08:29:59.511406
+utils - INFO - Adding: 873992744 at 2021-11-06 08:29:59.547305
+utils - INFO - Adding: 911154958 at 2021-11-06 08:29:59.563231
+utils - INFO - Adding: 954034949 at 2021-11-06 08:29:59.578771
+utils - INFO - scheduled: {'954034949', '132762273', '2107613029', '1238418523', '714497549', '2012725217', '1310061555', '1784612953', '911154958', '362625280', '1357309131', '873992744', '757577790'} - 2021-11-05 19:40:08.579371
+callbacks - INFO - Entra: {fonz, https://t.me/fonz_dm, 63445529, complete: False} - 05-11-2021 19:45:39
+callbacks - INFO - Entra: {Carmen Saporito, None, 950255171, complete: False} - 05-11-2021 19:48:52
+utils - INFO - Adding: 63445529 at 2021-11-06 08:29:59.941349
+utils - INFO - scheduled: {'954034949', '132762273', '2107613029', '1238418523', '714497549', '2012725217', '1310061555', '1784612953', '911154958', '63445529', '362625280', '1357309131', '873992744', '757577790'} - 2021-11-05 19:55:09.034322
+utils - INFO - scheduled: {'954034949', '132762273', '2107613029', '1238418523', '714497549', '2012725217', '1310061555', '1784612953', '911154958', '63445529', '362625280', '1357309131', '873992744', '757577790'} - 2021-11-05 20:10:09.500846
+utils - ERROR - Problem with: {'is_bot': False, 'language_code': 'it', 'first_name': 'Antonio', 'id': 132762273, 'last_name': 'Roberto'} - 2021-11-05 20:11:40.612636 - 27
+utils - INFO - scheduled: {'954034949', '132762273', '2107613029', '1238418523', '714497549', '2012725217', '1310061555', '1784612953', '911154958', '63445529', '362625280', '1357309131', '873992744', '757577790'} - 2021-11-05 20:25:09.958159
+telegram.ext.updater - INFO - Received signal 15 (SIGTERM), stopping...
+utils - INFO - Shutdown scheduler - 2021-11-05 20:32:01.473360
+__main__ - INFO - 05-11-2021 20:32
+utils - INFO - Adding: 1238418523 at 2021-11-06 08:29:59.030316
+utils - INFO - Adding: 1357309131 at 2021-11-06 08:29:59.104922
+utils - INFO - Adding: 1784612953 at 2021-11-06 08:29:59.225947
+utils - INFO - Adding: 2012725217 at 2021-11-06 08:29:59.323132
+utils - INFO - Adding: 2107613029 at 2021-11-06 08:29:59.388736
+utils - INFO - Adding: 362625280 at 2021-11-06 08:29:59.544589
+utils - INFO - Adding: 63445529 at 2021-11-06 08:29:59.663333
+utils - INFO - Adding: 714497549 at 2021-11-06 08:29:59.692990
+utils - INFO - Adding: 757577790 at 2021-11-06 08:29:59.740222
+utils - INFO - Adding: 873992744 at 2021-11-06 08:29:59.767967
+utils - INFO - Adding: 911154958 at 2021-11-06 08:29:59.778819
+utils - INFO - Adding: 954034949 at 2021-11-06 08:29:59.803830
+utils - INFO - scheduled: {'362625280', '714497549', '1238418523', '2012725217', '63445529', '757577790', '1357309131', '2107613029', '954034949', '873992744', '911154958', '1784612953'} - 2021-11-05 20:32:38.804478
+utils - INFO - scheduled: {'362625280', '714497549', '1238418523', '2012725217', '63445529', '757577790', '1357309131', '2107613029', '954034949', '873992744', '911154958', '1784612953'} - 2021-11-05 20:47:39.265657
+utils - INFO - scheduled: {'362625280', '714497549', '1238418523', '2012725217', '63445529', '757577790', '1357309131', '2107613029', '954034949', '873992744', '911154958', '1784612953'} - 2021-11-05 21:02:39.708279
+callbacks - INFO - Entra: {Vito, https://t.me/idsparco97, 222556755, complete: False} - 05-11-2021 21:10:01
+callbacks - INFO - Entra: {Maria De Feo, None, 2128855261, complete: False} - 05-11-2021 21:16:26
+utils - INFO - Adding: 2128855261 at 2021-11-06 08:29:59.972061
+utils - INFO - scheduled: {'2128855261', '362625280', '714497549', '1238418523', '2012725217', '63445529', '757577790', '1357309131', '2107613029', '954034949', '873992744', '911154958', '1784612953'} - 2021-11-05 21:17:40.171332
+utils - INFO - scheduled: {'2128855261', '362625280', '714497549', '1238418523', '2012725217', '63445529', '757577790', '1357309131', '2107613029', '954034949', '873992744', '911154958', '1784612953'} - 2021-11-05 21:32:40.646051
+utils - INFO - scheduled: {'2128855261', '362625280', '714497549', '1238418523', '2012725217', '63445529', '757577790', '1357309131', '2107613029', '954034949', '873992744', '911154958', '1784612953'} - 2021-11-05 21:47:41.112671
+callbacks - INFO - Entra: {Azaria, None, 914604355, complete: False} - 05-11-2021 21:48:39
+callbacks - INFO - Entra: {Nicodemo Iorio, None, 2066516850, complete: False} - 05-11-2021 21:58:20
+utils - INFO - scheduled: {'2128855261', '362625280', '714497549', '1238418523', '2012725217', '63445529', '757577790', '1357309131', '2107613029', '954034949', '873992744', '911154958', '1784612953'} - 2021-11-05 22:02:41.615000
+utils - INFO - scheduled: {'2128855261', '362625280', '714497549', '1238418523', '2012725217', '63445529', '757577790', '1357309131', '2107613029', '954034949', '873992744', '911154958', '1784612953'} - 2021-11-05 22:17:42.115624
+utils - INFO - scheduled: {'2128855261', '362625280', '714497549', '1238418523', '2012725217', '63445529', '757577790', '1357309131', '2107613029', '954034949', '873992744', '911154958', '1784612953'} - 2021-11-05 22:32:42.599573
+utils - INFO - scheduled: {'2128855261', '362625280', '714497549', '1238418523', '2012725217', '63445529', '757577790', '1357309131', '2107613029', '954034949', '873992744', '911154958', '1784612953'} - 2021-11-05 22:47:43.103638
+utils - INFO - Adding: 132762273 at 2021-11-06 08:29:59.195465
+utils - INFO - scheduled: {'2128855261', '362625280', '714497549', '1238418523', '2012725217', '63445529', '757577790', '132762273', '1357309131', '2107613029', '954034949', '873992744', '911154958', '1784612953'} - 2021-11-05 23:02:43.579770
+utils - INFO - scheduled: {'2128855261', '362625280', '714497549', '1238418523', '2012725217', '63445529', '757577790', '132762273', '1357309131', '2107613029', '954034949', '873992744', '911154958', '1784612953'} - 2021-11-05 23:17:44.080886
+utils - INFO - scheduled: {'2128855261', '362625280', '714497549', '1238418523', '2012725217', '63445529', '757577790', '132762273', '1357309131', '2107613029', '954034949', '873992744', '911154958', '1784612953'} - 2021-11-05 23:32:44.580876
+utils - INFO - scheduled: {'2128855261', '362625280', '714497549', '1238418523', '2012725217', '63445529', '757577790', '132762273', '1357309131', '2107613029', '954034949', '873992744', '911154958', '1784612953'} - 2021-11-05 23:47:45.080567
+utils - INFO - scheduled: {'2128855261', '362625280', '714497549', '1238418523', '2012725217', '63445529', '757577790', '132762273', '1357309131', '2107613029', '954034949', '873992744', '911154958', '1784612953'} - 2021-11-06 00:02:45.577032
+callbacks - INFO - Entra: {Luigi Sirignano, None, 2055098585, complete: False} - 06-11-2021 00:04:13
+utils - INFO - Adding: 2055098585 at 2021-11-06 08:29:59.799787
+utils - INFO - scheduled: {'2128855261', '362625280', '714497549', '1238418523', '2012725217', '63445529', '757577790', '132762273', '1357309131', '2055098585', '2107613029', '954034949', '873992744', '911154958', '1784612953'} - 2021-11-06 00:17:46.084396
+utils - INFO - scheduled: {'2128855261', '362625280', '714497549', '1238418523', '2012725217', '63445529', '757577790', '132762273', '1357309131', '2055098585', '2107613029', '954034949', '873992744', '911154958', '1784612953'} - 2021-11-06 00:32:46.603440
+utils - INFO - scheduled: {'2128855261', '362625280', '714497549', '1238418523', '2012725217', '63445529', '757577790', '132762273', '1357309131', '2055098585', '2107613029', '954034949', '873992744', '911154958', '1784612953'} - 2021-11-06 00:47:47.120341
+utils - INFO - scheduled: {'2128855261', '362625280', '714497549', '1238418523', '2012725217', '63445529', '757577790', '132762273', '1357309131', '2055098585', '2107613029', '954034949', '873992744', '911154958', '1784612953'} - 2021-11-06 01:02:47.630189
+utils - INFO - scheduled: {'2128855261', '362625280', '714497549', '1238418523', '2012725217', '63445529', '757577790', '132762273', '1357309131', '2055098585', '2107613029', '954034949', '873992744', '911154958', '1784612953'} - 2021-11-06 01:17:48.130449
+utils - INFO - scheduled: {'2128855261', '362625280', '714497549', '1238418523', '2012725217', '63445529', '757577790', '132762273', '1357309131', '2055098585', '2107613029', '954034949', '873992744', '911154958', '1784612953'} - 2021-11-06 01:32:48.643112
+utils - INFO - scheduled: {'2128855261', '362625280', '714497549', '1238418523', '2012725217', '63445529', '757577790', '132762273', '1357309131', '2055098585', '2107613029', '954034949', '873992744', '911154958', '1784612953'} - 2021-11-06 01:47:49.140800
+utils - INFO - scheduled: {'2128855261', '362625280', '714497549', '1238418523', '2012725217', '63445529', '757577790', '132762273', '1357309131', '2055098585', '2107613029', '954034949', '873992744', '911154958', '1784612953'} - 2021-11-06 02:02:49.651755
+utils - INFO - scheduled: {'2128855261', '362625280', '714497549', '1238418523', '2012725217', '63445529', '757577790', '132762273', '1357309131', '2055098585', '2107613029', '954034949', '873992744', '911154958', '1784612953'} - 2021-11-06 02:17:50.159319
+utils - INFO - scheduled: {'2128855261', '362625280', '714497549', '1238418523', '2012725217', '63445529', '757577790', '132762273', '1357309131', '2055098585', '2107613029', '954034949', '873992744', '911154958', '1784612953'} - 2021-11-06 02:32:50.658337
+utils - INFO - scheduled: {'2128855261', '362625280', '714497549', '1238418523', '2012725217', '63445529', '757577790', '132762273', '1357309131', '2055098585', '2107613029', '954034949', '873992744', '911154958', '1784612953'} - 2021-11-06 02:47:51.156887
+utils - INFO - scheduled: {'2128855261', '362625280', '714497549', '1238418523', '2012725217', '63445529', '757577790', '132762273', '1357309131', '2055098585', '2107613029', '954034949', '873992744', '911154958', '1784612953'} - 2021-11-06 03:02:51.646350
+utils - INFO - Adding: 573888762 at 2021-11-06 08:29:59.037754
+utils - INFO - scheduled: {'2128855261', '362625280', '714497549', '1238418523', '573888762', '2012725217', '63445529', '757577790', '132762273', '1357309131', '2055098585', '2107613029', '954034949', '873992744', '911154958', '1784612953'} - 2021-11-06 03:17:52.159482
+utils - INFO - scheduled: {'2128855261', '362625280', '714497549', '1238418523', '573888762', '2012725217', '63445529', '757577790', '132762273', '1357309131', '2055098585', '2107613029', '954034949', '873992744', '911154958', '1784612953'} - 2021-11-06 03:32:52.675070
+utils - INFO - Adding: 1230421796 at 2021-11-06 08:29:59.730707
+utils - INFO - scheduled: {'2128855261', '362625280', '714497549', '1238418523', '573888762', '1230421796', '2012725217', '63445529', '757577790', '132762273', '1357309131', '2055098585', '2107613029', '954034949', '873992744', '911154958', '1784612953'} - 2021-11-06 03:47:53.182107
+utils - INFO - scheduled: {'2128855261', '362625280', '714497549', '1238418523', '573888762', '1230421796', '2012725217', '63445529', '757577790', '132762273', '1357309131', '2055098585', '2107613029', '954034949', '873992744', '911154958', '1784612953'} - 2021-11-06 04:02:53.688116
+utils - INFO - scheduled: {'2128855261', '362625280', '714497549', '1238418523', '573888762', '1230421796', '2012725217', '63445529', '757577790', '132762273', '1357309131', '2055098585', '2107613029', '954034949', '873992744', '911154958', '1784612953'} - 2021-11-06 04:17:54.194978
+utils - INFO - Adding: 1314783113 at 2021-11-06 08:29:59.284159
+utils - INFO - scheduled: {'2128855261', '362625280', '714497549', '1238418523', '573888762', '1230421796', '1314783113', '2012725217', '63445529', '757577790', '132762273', '1357309131', '2055098585', '2107613029', '954034949', '873992744', '911154958', '1784612953'} - 2021-11-06 04:32:54.682533
+utils - INFO - scheduled: {'2128855261', '362625280', '714497549', '1238418523', '573888762', '1230421796', '1314783113', '2012725217', '63445529', '757577790', '132762273', '1357309131', '2055098585', '2107613029', '954034949', '873992744', '911154958', '1784612953'} - 2021-11-06 04:47:55.197205
+utils - INFO - scheduled: {'2128855261', '362625280', '714497549', '1238418523', '573888762', '1230421796', '1314783113', '2012725217', '63445529', '757577790', '132762273', '1357309131', '2055098585', '2107613029', '954034949', '873992744', '911154958', '1784612953'} - 2021-11-06 05:02:55.696704
+utils - INFO - scheduled: {'2128855261', '362625280', '714497549', '1238418523', '573888762', '1230421796', '1314783113', '2012725217', '63445529', '757577790', '132762273', '1357309131', '2055098585', '2107613029', '954034949', '873992744', '911154958', '1784612953'} - 2021-11-06 05:17:56.206320
+utils - INFO - Adding: 482000749 at 2021-11-06 08:29:59.555243
+utils - INFO - scheduled: {'2128855261', '573888762', '1230421796', '2055098585', '132762273', '714497549', '2012725217', '1357309131', '911154958', '1238418523', '1314783113', '757577790', '2107613029', '873992744', '1784612953', '362625280', '482000749', '63445529', '954034949'} - 2021-11-06 05:32:56.697590
+utils - INFO - scheduled: {'2128855261', '573888762', '1230421796', '2055098585', '132762273', '714497549', '2012725217', '1357309131', '911154958', '1238418523', '1314783113', '757577790', '2107613029', '873992744', '1784612953', '362625280', '482000749', '63445529', '954034949'} - 2021-11-06 05:47:57.207771
+utils - INFO - scheduled: {'2128855261', '573888762', '1230421796', '2055098585', '132762273', '714497549', '2012725217', '1357309131', '911154958', '1238418523', '1314783113', '757577790', '2107613029', '873992744', '1784612953', '362625280', '482000749', '63445529', '954034949'} - 2021-11-06 06:02:57.713383
+utils - INFO - Adding: 2121819999 at 2021-11-06 08:29:59.737607
+utils - INFO - Adding: 834582285 at 2021-11-06 08:29:59.179392
+utils - INFO - scheduled: {'2128855261', '573888762', '1230421796', '2121819999', '834582285', '2055098585', '132762273', '714497549', '2012725217', '1357309131', '911154958', '1238418523', '1314783113', '757577790', '2107613029', '873992744', '1784612953', '362625280', '482000749', '63445529', '954034949'} - 2021-11-06 06:17:58.226407
+utils - INFO - Adding: 1483207948 at 2021-11-06 08:29:59.377057
+utils - INFO - scheduled: {'2128855261', '1483207948', '573888762', '1230421796', '2121819999', '834582285', '2055098585', '132762273', '714497549', '2012725217', '1357309131', '911154958', '1238418523', '1314783113', '757577790', '2107613029', '873992744', '1784612953', '362625280', '482000749', '63445529', '954034949'} - 2021-11-06 06:32:58.744801
+utils - INFO - Adding: 1067240777 at 2021-11-06 08:29:59.788600
+utils - INFO - Adding: 696351228 at 2021-11-06 08:29:59.149800
+utils - INFO - scheduled: {'2128855261', '1483207948', '573888762', '1230421796', '2121819999', '834582285', '2055098585', '132762273', '714497549', '2012725217', '1357309131', '911154958', '1238418523', '1314783113', '1067240777', '757577790', '2107613029', '873992744', '1784612953', '362625280', '482000749', '63445529', '954034949', '696351228'} - 2021-11-06 06:47:59.244328
+utils - INFO - scheduled: {'2128855261', '1483207948', '573888762', '1230421796', '2121819999', '834582285', '2055098585', '132762273', '714497549', '2012725217', '1357309131', '911154958', '1238418523', '1314783113', '1067240777', '757577790', '2107613029', '873992744', '1784612953', '362625280', '482000749', '63445529', '954034949', '696351228'} - 2021-11-06 07:02:59.763831
+telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1905358159:AAHLRxV694LmBhtb6GH3aqCoG9vc3v4nd7Y/getUpdates (Caused by NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0xb1448580>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+utils - ERROR - Problem with: None - 2021-11-06 07:13:10.900185 - urllib3 HTTPError HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1905358159:AAHLRxV694LmBhtb6GH3aqCoG9vc3v4nd7Y/getUpdates (Caused by NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0xb1448580>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1905358159:AAHLRxV694LmBhtb6GH3aqCoG9vc3v4nd7Y/getUpdates (Caused by NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0xb149c178>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+utils - ERROR - Problem with: None - 2021-11-06 07:13:11.910936 - urllib3 HTTPError HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1905358159:AAHLRxV694LmBhtb6GH3aqCoG9vc3v4nd7Y/getUpdates (Caused by NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0xb149c178>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+utils - INFO - scheduled: {'2128855261', '1483207948', '573888762', '1230421796', '2121819999', '834582285', '2055098585', '132762273', '714497549', '2012725217', '1357309131', '911154958', '1238418523', '1314783113', '1067240777', '757577790', '2107613029', '873992744', '1784612953', '362625280', '482000749', '63445529', '954034949', '696351228'} - 2021-11-06 07:18:00.277137
+utils - INFO - Adding: 2089995001 at 2021-11-06 08:29:59.534776
+utils - INFO - Adding: 2109142388 at 2021-11-06 08:29:59.553275
+utils - INFO - scheduled: {'2128855261', '1483207948', '573888762', '1230421796', '2121819999', '834582285', '2055098585', '132762273', '714497549', '2089995001', '2012725217', '1357309131', '911154958', '1238418523', '1314783113', '1067240777', '757577790', '2107613029', '873992744', '1784612953', '362625280', '2109142388', '482000749', '63445529', '954034949', '696351228'} - 2021-11-06 07:33:00.780646
+utils - INFO - scheduled: {'2128855261', '1483207948', '573888762', '1230421796', '2121819999', '834582285', '2055098585', '132762273', '714497549', '2089995001', '2012725217', '1357309131', '911154958', '1238418523', '1314783113', '1067240777', '757577790', '2107613029', '873992744', '1784612953', '362625280', '2109142388', '482000749', '63445529', '954034949', '696351228'} - 2021-11-06 07:48:01.290731
+utils - INFO - scheduled: {'2128855261', '1483207948', '573888762', '1230421796', '2121819999', '834582285', '2055098585', '132762273', '714497549', '2089995001', '2012725217', '1357309131', '911154958', '1238418523', '1314783113', '1067240777', '757577790', '2107613029', '873992744', '1784612953', '362625280', '2109142388', '482000749', '63445529', '954034949', '696351228'} - 2021-11-06 08:03:01.797956
+utils - INFO - Adding: 2080397916 at 2021-11-06 08:29:59.061904
+utils - INFO - scheduled: {'2128855261', '1483207948', '573888762', '1230421796', '2121819999', '834582285', '2055098585', '132762273', '714497549', '2089995001', '2012725217', '1357309131', '911154958', '1238418523', '1314783113', '1067240777', '757577790', '2107613029', '873992744', '1784612953', '362625280', '2109142388', '482000749', '2080397916', '63445529', '954034949', '696351228'} - 2021-11-06 08:18:02.317523
+utils - WARNING - ValueError for 573888762 selected index command: 14 for eng - 2021-11-06 08:29:59.077851
+utils - WARNING - ValueError for 2080397916 selected index command: 23 for eng - 2021-11-06 08:29:59.110405
+utils - INFO - Removing: 1784612953
+utils - WARNING - ValueError for 1314783113 selected index command: 25 for eng - 2021-11-06 08:29:59.657918
+utils - INFO - Removing: 2012725217
+utils - INFO - Removing: 1357309131
+utils - INFO - Removing: 2107613029
+utils - INFO - Removing: 573888762
+utils - INFO - Removing: 1238418523
+utils - INFO - Removing: 2128855261
+utils - INFO - Removing: 2080397916
+utils - INFO - Removing: 696351228
+utils - INFO - Removing: 132762273
+utils - INFO - Removing: 834582285
+utils - INFO - Removing: 2089995001
+utils - INFO - Removing: 1483207948
+utils - INFO - Removing: 1314783113
+utils - INFO - Removing: 362625280
+utils - INFO - Adding: 1238418523 at 2021-11-06 19:29:59.387413
+utils - INFO - Adding: 1314783113 at 2021-11-06 19:29:59.415834
+utils - INFO - Adding: 132762273 at 2021-11-06 19:29:59.430472
+utils - INFO - Adding: 1357309131 at 2021-11-06 19:29:59.444905
+utils - INFO - Adding: 1483207948 at 2021-11-06 19:29:59.469338
+utils - INFO - Adding: 2012725217 at 2021-11-06 19:29:59.540945
+utils - INFO - Adding: 2080397916 at 2021-11-06 19:29:59.581019
+utils - INFO - Adding: 2089995001 at 2021-11-06 19:29:59.591146
+utils - INFO - Adding: 2107613029 at 2021-11-06 19:29:59.600666
+utils - INFO - Adding: 362625280 at 2021-11-06 19:29:59.678157
+utils - INFO - Adding: 573888762 at 2021-11-06 19:29:59.718072
+utils - INFO - Adding: 696351228 at 2021-11-06 19:29:59.747441
+utils - INFO - Adding: 834582285 at 2021-11-06 19:29:59.796157
+utils - INFO - scheduled: {'1483207948', '573888762', '1230421796', '2121819999', '834582285', '2055098585', '132762273', '714497549', '2089995001', '2012725217', '1357309131', '911154958', '1238418523', '1314783113', '1067240777', '757577790', '2107613029', '873992744', '362625280', '2109142388', '482000749', '2080397916', '63445529', '954034949', '696351228'} - 2021-11-06 08:33:07.430692
+utils - INFO - Adding: 2144090201 at 2021-11-06 19:29:59.730202
+utils - INFO - scheduled: {'1483207948', '573888762', '1230421796', '2121819999', '834582285', '2055098585', '132762273', '714497549', '2089995001', '2012725217', '1357309131', '911154958', '1238418523', '1314783113', '1067240777', '757577790', '2107613029', '873992744', '2144090201', '362625280', '2109142388', '482000749', '2080397916', '63445529', '954034949', '696351228'} - 2021-11-06 08:48:07.931815
+utils - INFO - scheduled: {'1483207948', '573888762', '1230421796', '2121819999', '834582285', '2055098585', '132762273', '714497549', '2089995001', '2012725217', '1357309131', '911154958', '1238418523', '1314783113', '1067240777', '757577790', '2107613029', '873992744', '2144090201', '362625280', '2109142388', '482000749', '2080397916', '63445529', '954034949', '696351228'} - 2021-11-06 09:03:08.448498
+utils - INFO - scheduled: {'1483207948', '573888762', '1230421796', '2121819999', '834582285', '2055098585', '132762273', '714497549', '2089995001', '2012725217', '1357309131', '911154958', '1238418523', '1314783113', '1067240777', '757577790', '2107613029', '873992744', '2144090201', '362625280', '2109142388', '482000749', '2080397916', '63445529', '954034949', '696351228'} - 2021-11-06 09:18:08.972452
+utils - WARNING - ValueError for 2089995001 selected index command: 15 for ita - 2021-11-06 09:18:14.052181
+utils - INFO - scheduled: {'1483207948', '573888762', '1230421796', '2121819999', '834582285', '2055098585', '132762273', '714497549', '2089995001', '2012725217', '1357309131', '911154958', '1238418523', '1314783113', '1067240777', '757577790', '2107613029', '873992744', '2144090201', '362625280', '2109142388', '482000749', '2080397916', '63445529', '954034949', '696351228'} - 2021-11-06 09:33:09.475852
+utils - INFO - scheduled: {'1483207948', '573888762', '1230421796', '2121819999', '834582285', '2055098585', '132762273', '714497549', '2089995001', '2012725217', '1357309131', '911154958', '1238418523', '1314783113', '1067240777', '757577790', '2107613029', '873992744', '2144090201', '362625280', '2109142388', '482000749', '2080397916', '63445529', '954034949', '696351228'} - 2021-11-06 09:48:09.980913
+utils - INFO - Adding: 2058616 at 2021-11-06 19:29:59.227221
+utils - INFO - scheduled: {'1483207948', '573888762', '1230421796', '2121819999', '834582285', '2055098585', '132762273', '2058616', '714497549', '2089995001', '2012725217', '1357309131', '911154958', '1238418523', '1314783113', '1067240777', '757577790', '2107613029', '873992744', '2144090201', '362625280', '2109142388', '482000749', '2080397916', '63445529', '954034949', '696351228'} - 2021-11-06 10:03:10.505221
+utils - INFO - scheduled: {'1483207948', '573888762', '1230421796', '2121819999', '834582285', '2055098585', '132762273', '2058616', '714497549', '2089995001', '2012725217', '1357309131', '911154958', '1238418523', '1314783113', '1067240777', '757577790', '2107613029', '873992744', '2144090201', '362625280', '2109142388', '482000749', '2080397916', '63445529', '954034949', '696351228'} - 2021-11-06 10:18:11.001113
+utils - INFO - Adding: 2123568595 at 2021-11-06 19:29:59.286628
+utils - INFO - scheduled: {'1483207948', '573888762', '1230421796', '2121819999', '834582285', '2055098585', '132762273', '2058616', '714497549', '2089995001', '2012725217', '2123568595', '1357309131', '911154958', '1238418523', '1314783113', '1067240777', '757577790', '2107613029', '873992744', '2144090201', '362625280', '2109142388', '482000749', '2080397916', '63445529', '954034949', '696351228'} - 2021-11-06 10:33:11.505750
+utils - INFO - scheduled: {'1483207948', '573888762', '1230421796', '2121819999', '834582285', '2055098585', '132762273', '2058616', '714497549', '2089995001', '2012725217', '2123568595', '1357309131', '911154958', '1238418523', '1314783113', '1067240777', '757577790', '2107613029', '873992744', '2144090201', '362625280', '2109142388', '482000749', '2080397916', '63445529', '954034949', '696351228'} - 2021-11-06 10:48:12.040647
+utils - INFO - Adding: 1310061555 at 2021-11-06 19:29:59.120291
+utils - INFO - scheduled: {'1483207948', '573888762', '1230421796', '2121819999', '834582285', '2055098585', '132762273', '2058616', '714497549', '2089995001', '2012725217', '2123568595', '1357309131', '911154958', '1238418523', '1314783113', '1067240777', '757577790', '2107613029', '873992744', '2144090201', '362625280', '2109142388', '482000749', '2080397916', '1310061555', '63445529', '954034949', '696351228'} - 2021-11-06 11:03:12.556640
+utils - INFO - scheduled: {'1483207948', '573888762', '1230421796', '2121819999', '834582285', '2055098585', '132762273', '2058616', '714497549', '2089995001', '2012725217', '2123568595', '1357309131', '911154958', '1238418523', '1314783113', '1067240777', '757577790', '2107613029', '873992744', '2144090201', '362625280', '2109142388', '482000749', '2080397916', '1310061555', '63445529', '954034949', '696351228'} - 2021-11-06 11:18:13.073236
+utils - INFO - scheduled: {'1483207948', '573888762', '1230421796', '2121819999', '834582285', '2055098585', '132762273', '2058616', '714497549', '2089995001', '2012725217', '2123568595', '1357309131', '911154958', '1238418523', '1314783113', '1067240777', '757577790', '2107613029', '873992744', '2144090201', '362625280', '2109142388', '482000749', '2080397916', '1310061555', '63445529', '954034949', '696351228'} - 2021-11-06 11:33:13.587255
+callbacks - INFO - Entra: {Berardino Lo Chiatto Po Grottaminarda 0 (AV), https://t.me/berardinolochiatto, 189585663, complete: False} - 06-11-2021 11:35:22
+utils - INFO - Adding: 189585663 at 2021-11-06 19:29:59.793983
+utils - INFO - scheduled: {'1483207948', '573888762', '1230421796', '2121819999', '834582285', '2055098585', '132762273', '2058616', '714497549', '2089995001', '2012725217', '2123568595', '189585663', '1357309131', '911154958', '1238418523', '1314783113', '1067240777', '757577790', '2107613029', '873992744', '2144090201', '362625280', '2109142388', '482000749', '2080397916', '1310061555', '63445529', '954034949', '696351228'} - 2021-11-06 11:48:14.123173
+callbacks - INFO - Entra: {Antonio, https://t.me/sognatore81, 1224730345, complete: False} - 06-11-2021 11:50:18
+callbacks - INFO - Entra: {Super Super, None, 592391617, complete: False} - 06-11-2021 11:53:06
+utils - WARNING - ValueError for 592391617 selected index command: 12 for eng - 2021-11-06 12:00:14.041244
+utils - INFO - scheduled: {'1483207948', '573888762', '1230421796', '2121819999', '834582285', '2055098585', '132762273', '2058616', '714497549', '2089995001', '2012725217', '2123568595', '189585663', '1357309131', '911154958', '1238418523', '1314783113', '1067240777', '757577790', '2107613029', '873992744', '2144090201', '362625280', '2109142388', '482000749', '2080397916', '1310061555', '63445529', '954034949', '696351228'} - 2021-11-06 12:03:14.684609
+callbacks - INFO - Entra: {Mina, None, 1785329822, complete: False} - 06-11-2021 12:09:56
+utils - INFO - Adding: 1785329822 at 2021-11-06 19:29:59.884638
+utils - INFO - Adding: 222556755 at 2021-11-06 19:29:59.043845
+utils - INFO - scheduled: {'1785329822', '1483207948', '573888762', '1230421796', '2121819999', '834582285', '2055098585', '132762273', '2058616', '714497549', '2089995001', '2012725217', '2123568595', '189585663', '1357309131', '222556755', '911154958', '1238418523', '1314783113', '1067240777', '757577790', '2107613029', '873992744', '2144090201', '362625280', '2109142388', '482000749', '2080397916', '1310061555', '63445529', '954034949', '696351228'} - 2021-11-06 12:18:15.260857
+utils - INFO - scheduled: {'1785329822', '1483207948', '573888762', '1230421796', '2121819999', '834582285', '2055098585', '132762273', '2058616', '714497549', '2089995001', '2012725217', '2123568595', '189585663', '1357309131', '222556755', '911154958', '1238418523', '1314783113', '1067240777', '757577790', '2107613029', '873992744', '2144090201', '362625280', '2109142388', '482000749', '2080397916', '1310061555', '63445529', '954034949', '696351228'} - 2021-11-06 12:33:15.797483
+utils - INFO - scheduled: {'1785329822', '1483207948', '573888762', '1230421796', '2121819999', '834582285', '2055098585', '132762273', '2058616', '714497549', '2089995001', '2012725217', '2123568595', '189585663', '1357309131', '222556755', '911154958', '1238418523', '1314783113', '1067240777', '757577790', '2107613029', '873992744', '2144090201', '362625280', '2109142388', '482000749', '2080397916', '1310061555', '63445529', '954034949', '696351228'} - 2021-11-06 12:48:16.355828
+utils - INFO - scheduled: {'1785329822', '1483207948', '573888762', '1230421796', '2121819999', '834582285', '2055098585', '132762273', '2058616', '714497549', '2089995001', '2012725217', '2123568595', '189585663', '1357309131', '222556755', '911154958', '1238418523', '1314783113', '1067240777', '757577790', '2107613029', '873992744', '2144090201', '362625280', '2109142388', '482000749', '2080397916', '1310061555', '63445529', '954034949', '696351228'} - 2021-11-06 13:03:16.910172
+utils - INFO - Shutdown scheduler - 2021-11-06 13:15:32.802231
+__main__ - INFO - 06-11-2021 13:16
+callbacks - INFO - Entra: {Mara🍓, None, 1889914753, complete: False} - 06-11-2021 13:16:08
+utils - INFO - Adding: 2121819999 at 2021-11-06 19:29:59.224125
+utils - INFO - Adding: 1067240777 at 2021-11-06 19:29:59.241938
+utils - INFO - Adding: 1230421796 at 2021-11-06 19:29:59.287176
+utils - INFO - Adding: 1238418523 at 2021-11-06 19:29:59.304917
+utils - INFO - Adding: 1310061555 at 2021-11-06 19:29:59.320472
+utils - INFO - Adding: 1357309131 at 2021-11-06 19:29:59.375276
+utils - INFO - Adding: 1785329822 at 2021-11-06 19:29:59.499797
+utils - INFO - Adding: 1889914753 at 2021-11-06 19:29:59.537283
+utils - INFO - Adding: 189585663 at 2021-11-06 19:29:59.554946
+utils - INFO - Adding: 2012725217 at 2021-11-06 19:29:59.616273
+utils - INFO - Adding: 2058616 at 2021-11-06 19:29:59.651681
+utils - INFO - Adding: 2107613029 at 2021-11-06 19:29:59.721081
+utils - INFO - Adding: 2109142388 at 2021-11-06 19:29:59.737896
+utils - INFO - Adding: 2123568595 at 2021-11-06 19:29:59.752916
+utils - INFO - Adding: 222556755 at 2021-11-06 19:29:59.809725
+utils - INFO - Adding: 482000749 at 2021-11-06 19:29:59.960998
+utils - INFO - Adding: 573888762 at 2021-11-06 19:30:00.000113
+utils - INFO - Adding: 63445529 at 2021-11-06 19:29:59.056112
+utils - INFO - Adding: 696351228 at 2021-11-06 19:29:59.072879
+utils - INFO - Adding: 714497549 at 2021-11-06 19:29:59.087038
+utils - INFO - Adding: 757577790 at 2021-11-06 19:29:59.141925
+utils - INFO - Adding: 834582285 at 2021-11-06 19:29:59.160096
+utils - INFO - Adding: 873992744 at 2021-11-06 19:29:59.174182
+utils - INFO - Adding: 911154958 at 2021-11-06 19:29:59.189632
+utils - INFO - Adding: 954034949 at 2021-11-06 19:29:59.242710
+utils - INFO - scheduled: {'1310061555', '911154958', '2121819999', '222556755', '2123568595', '482000749', '954034949', '1230421796', '714497549', '1238418523', '2107613029', '2109142388', '189585663', '1357309131', '63445529', '1067240777', '2058616', '757577790', '873992744', '1785329822', '2012725217', '696351228', '834582285', '573888762', '1889914753'} - 2021-11-06 13:16:10.243516
+utils - INFO - scheduled: {'1310061555', '911154958', '2121819999', '222556755', '2123568595', '482000749', '954034949', '1230421796', '714497549', '1238418523', '2107613029', '2109142388', '189585663', '1357309131', '63445529', '1067240777', '2058616', '757577790', '873992744', '1785329822', '2012725217', '696351228', '834582285', '573888762', '1889914753'} - 2021-11-06 13:36:03.959488
+utils - INFO - Shutdown scheduler - 2021-11-06 13:36:21.516447
+__main__ - INFO - 06-11-2021 13:36
+utils - INFO - Adding: 2121819999 at 2021-11-06 19:29:59.915480
+utils - INFO - Adding: 1067240777 at 2021-11-06 19:29:59.933359
+utils - INFO - Adding: 1230421796 at 2021-11-06 19:29:59.980749
+utils - INFO - Adding: 1238418523 at 2021-11-06 19:30:00.000437
+utils - INFO - Adding: 1310061555 at 2021-11-06 19:29:59.015901
+utils - INFO - Adding: 1357309131 at 2021-11-06 19:29:59.113083
+utils - INFO - Adding: 1785329822 at 2021-11-06 19:29:59.243895
+utils - INFO - Adding: 1889914753 at 2021-11-06 19:29:59.285576
+utils - INFO - Adding: 189585663 at 2021-11-06 19:29:59.302444
+utils - INFO - Adding: 2012725217 at 2021-11-06 19:29:59.358705
+utils - INFO - Adding: 2058616 at 2021-11-06 19:29:59.402591
+utils - INFO - Adding: 2107613029 at 2021-11-06 19:29:59.474090
+utils - INFO - Adding: 2109142388 at 2021-11-06 19:29:59.492331
+utils - INFO - Adding: 2123568595 at 2021-11-06 19:29:59.509135
+utils - ERROR - Problem with: {'first_name': 'Mara🍓', 'language_code': 'it', 'is_bot': False, 'id': 1889914753} - 2021-11-06 13:36:50.547063 - Query is too old and response timeout expired or query id is invalid
+utils - INFO - Adding: 222556755 at 2021-11-06 19:29:59.598379
+utils - ERROR - Problem with: {'first_name': 'Mara🍓', 'language_code': 'it', 'is_bot': False, 'id': 1889914753} - 2021-11-06 13:36:50.638318 - Query is too old and response timeout expired or query id is invalid
+utils - ERROR - Problem with: {'first_name': 'Mara🍓', 'language_code': 'it', 'is_bot': False, 'id': 1889914753} - 2021-11-06 13:36:50.729469 - Query is too old and response timeout expired or query id is invalid
+utils - INFO - Adding: 482000749 at 2021-11-06 19:29:59.760192
+utils - INFO - Adding: 573888762 at 2021-11-06 19:29:59.796455
+utils - ERROR - Problem with: {'first_name': 'Mara🍓', 'language_code': 'it', 'is_bot': False, 'id': 1889914753} - 2021-11-06 13:36:50.809672 - Query is too old and response timeout expired or query id is invalid
+utils - INFO - Adding: 63445529 at 2021-11-06 19:29:59.925512
+utils - INFO - Adding: 696351228 at 2021-11-06 19:29:59.948831
+utils - INFO - Adding: 714497549 at 2021-11-06 19:29:59.980271
+utils - INFO - Adding: 757577790 at 2021-11-06 19:29:59.048905
+utils - INFO - Adding: 834582285 at 2021-11-06 19:29:59.098484
+utils - INFO - Adding: 873992744 at 2021-11-06 19:29:59.128289
+utils - INFO - Adding: 911154958 at 2021-11-06 19:29:59.157016
+utils - INFO - Adding: 954034949 at 2021-11-06 19:29:59.193399
+utils - INFO - scheduled: {'1067240777', '1889914753', '1357309131', '1238418523', '482000749', '1230421796', '2109142388', '2123568595', '954034949', '714497549', '189585663', '757577790', '573888762', '834582285', '2121819999', '911154958', '2107613029', '63445529', '2012725217', '696351228', '873992744', '1785329822', '222556755', '2058616', '1310061555'} - 2021-11-06 13:36:51.193920
+callbacks - INFO - Entra: {Mara🍓, None, 1889914753, complete: False} - 06-11-2021 13:37:48
+utils - INFO - scheduled: {'1067240777', '1889914753', '1357309131', '1238418523', '482000749', '1230421796', '2109142388', '2123568595', '954034949', '714497549', '189585663', '757577790', '573888762', '834582285', '2121819999', '911154958', '2107613029', '63445529', '2012725217', '696351228', '873992744', '1785329822', '222556755', '2058616', '1310061555'} - 2021-11-06 13:51:51.800288
+utils - INFO - scheduled: {'1067240777', '1889914753', '1357309131', '1238418523', '482000749', '1230421796', '2109142388', '2123568595', '954034949', '714497549', '189585663', '757577790', '573888762', '834582285', '2121819999', '911154958', '2107613029', '63445529', '2012725217', '696351228', '873992744', '1785329822', '222556755', '2058616', '1310061555'} - 2021-11-06 14:06:52.387254
+callbacks - INFO - Entra: {Franck21, https://t.me/Franck21, 232282882, complete: False} - 06-11-2021 14:08:54
