@@ -120,7 +120,6 @@ figure/eng.png
 figure/ita.csv
 figure/ita.png
 audio
-dataset
 nemo_experiments
 global_utils.py
 fsd/
