@@ -1,0 +1,1 @@
+conda activate tts; python "C:\MIE CARTELLE\PROGRAMMAZIONE\GITHUB\tesi_magistrale\count.py"
