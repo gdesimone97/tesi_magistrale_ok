@@ -122,7 +122,6 @@ figure/ita.png
 audio
 nemo_experiments
 global_utils.py
-fsd/
 code/*
 code*
 .working_dir
