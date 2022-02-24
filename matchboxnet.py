@@ -66,7 +66,7 @@ if __name__ == "__main__":
         config.model.train_ds.augmentor.mynoise.dataset_path_synth = str(Path(get_curr_dir(__file__)).joinpath("dataset/Dataset_synth_conv"))
     else:
         config.model.train_ds.augmentor.mynoise.dataset_path_synth = None
-    #config.model.train_ds.augmentor.mynoise.dataset_path_reject = str(Path(get_curr_dir(__file__)).joinpath("dataset/common_voices"))
+    config.model.train_ds.augmentor.mynoise.dataset_path_reject = str(Path(get_curr_dir(__file__)).joinpath("dataset/common_voices"))
 
     config.model.train_ds.manifest_filepath = TRAIN_MANIFEST
 
